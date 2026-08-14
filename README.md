@@ -10,5 +10,8 @@ In my spare time I build non-profit projects aimed at improving the quality of e
 ### Tech stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,aws,pytorch,git)](https://skillicons.dev)
 
+### GitHub stats
+[![Ilia's GitHub stats](https://github-stats-extended.vercel.app/api?username=starrovoitov)](https://github.com/stats-organization/github-stats-extended)
+
 ### Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-starrovoitov-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/starrovoitov/)
